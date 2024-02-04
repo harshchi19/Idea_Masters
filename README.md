@@ -1,3 +1,4 @@
+IDEA MASTERS 
 In day-to-day aviation operations, decision-makers often encounter unforeseen circumstances that deviate from the original plan, ranging from unexpected weather conditions to changes in aircraft  versions. Currently these issues are resolved by humans which increases the reliance on human judgment which in turns introduce human errors in decision-making.We are trying to revolutionize this approach with the help of our application with uses machine learning,deep learning algorithms and neural networks.<br>
 
 Every day, pilots face various uncertainties like unpredictable weather and unforeseen circumstances. Generally, decisions on landing feasibility majorly relies on human judgment, which can be subjective and inconsistent. Our solution explores how a machine learning model can help predict safe landings, enhancing both safety and operational efficiency. <br>
