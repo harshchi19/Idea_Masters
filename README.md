@@ -3,7 +3,7 @@ In day-to-day aviation operations, decision-makers often encounter unforeseen ci
 Every day, pilots face various uncertainties like unpredictable weather and unforeseen circumstances. Generally, decisions on landing feasibility majorly relies on human judgment, which can be subjective and inconsistent. Our solution explores how a machine learning model can help predict safe landings, enhancing both safety and operational efficiency. <br>
 
 We have developed a ML Model which is trained on various datasets like weather information and historical flight delays information.Models will take following parameters as inputs and will predict whether it is safe to land or not .<br>
-<p>The foolowing are the parameters</p>
+<p>The foLlowing are the parameters</p>
 <ul>
 <li>Temperature</li>
 <li>Wind Speed and Direction</li> 
